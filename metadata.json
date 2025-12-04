@@ -1,0 +1,5 @@
+{
+  "name": "EmojiAlchemist",
+  "description": "A style-aware emoji generator that creates custom, consistent icons based on your reference style using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
